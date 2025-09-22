@@ -4,6 +4,8 @@
  // Materia: Principios de Programación
  // Proyecto: Tienda Express
  // Fecha: 16 de septiembre deo 2025
+//Url Video: https://vm.tiktok.com/ZMAAK3xRK/
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

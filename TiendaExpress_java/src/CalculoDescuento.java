@@ -1,9 +1,7 @@
-/**
- * Programa: CalculoDescuento.java
- * Objetivo: Calcular descuentos en compras usando métodos con parámetros, retorno y sobrecarga.
- * Autor: Juan Tipantuña
- * Fecha: 21/07/2025
- */
+ // Programa: CalculoDescuento.java
+ // Objetivo: Calcular descuentos en compras usando métodos con parámetros, retorno y sobrecarga.
+ // Autor: Juan Tipantuña
+ // Fecha: 21/07/2025
 
 public class CalculoDescuento {
 
